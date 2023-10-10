@@ -1,0 +1,12 @@
+2023/10/10-14:07:21.991 3 Reusing MANIFEST /home/teste1/.config/vivaldi/Default/Local Storage/leveldb/MANIFEST-000001
+2023/10/10-14:07:21.991 3 Recovering log #15
+2023/10/10-14:07:21.991 3 Reusing old log /home/teste1/.config/vivaldi/Default/Local Storage/leveldb/000015.log 
+2023/10/10-14:09:11.957 5 Level-0 table #20: started
+2023/10/10-14:09:11.964 5 Level-0 table #20: 34605 bytes OK
+2023/10/10-14:09:11.966 5 Delete type=0 #15
+2023/10/10-14:20:17.421 5 Level-0 table #22: started
+2023/10/10-14:20:17.429 5 Level-0 table #22: 39654 bytes OK
+2023/10/10-14:20:17.431 5 Delete type=0 #19
+2023/10/10-14:29:14.541 5 Level-0 table #24: started
+2023/10/10-14:29:14.549 5 Level-0 table #24: 37503 bytes OK
+2023/10/10-14:29:14.551 5 Delete type=0 #21

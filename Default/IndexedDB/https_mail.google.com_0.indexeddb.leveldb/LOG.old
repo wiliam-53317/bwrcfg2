@@ -1,0 +1,6 @@
+2023/10/10-12:21:49.145 a1e Creating DB /home/teste1/.config/vivaldi/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb since it was missing.
+2023/10/10-12:21:49.153 a1e Reusing MANIFEST /home/teste1/.config/vivaldi/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/10-12:22:53.125 a1f Level-0 table #5: started
+2023/10/10-12:22:53.127 a1f Level-0 table #5: 2148 bytes OK
+2023/10/10-12:22:53.128 a1f Delete type=0 #3
+2023/10/10-12:22:53.128 a1f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
